@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CarCare</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_login">登陆界面</string>
+    <string name="activity_select">选择车型</string>
+    <string name="ok">确定</string>
+
+</resources>
